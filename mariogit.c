@@ -34,7 +34,7 @@ main(int argc, char *argv[])
                         blocks++;
                         for(asterisks = 0; asterisks < WIDTH - spaces; asterisks++)
                         {
-                                printf("*");
+                                printf("#");
                         }
                         printf("\n");
         }
